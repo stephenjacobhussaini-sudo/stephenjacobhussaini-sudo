@@ -4,7 +4,7 @@
 
 I am a Project Controls & Construction Data Analyst with a strong foundation in structural assets and project delivery workflows. I hold a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management. 
 
-I specialize in transforming complex, fragmented construction data—schedules, risk registers, and commercial claims—into real-time, executive-level interactive intelligence. By bridging the gap between heavy infrastructure frameworks and modern data analytics tools, I build data architectures that actively protect project margins, track critical paths, and prevent contract disputes.
+I specialize in transforming complex, fragmented construction data—schedules, risk registers, and commercial claims—into real-time, executive-level interactive intelligence. By bridging the gap between heavy infrastructure frameworks and modern data analytics tools, I build data architectures that actively protect project margins, track critical paths and prevent contract disputes.
 
 ---
 
@@ -19,7 +19,7 @@ I specialize in transforming complex, fragmented construction data—schedules, 
 
 ### 📊 [Capital Infrastructure Performance Dashboard (EVM)](https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-)
 An enterprise-ready project controls dashboard built in Power BI to analyze a £12M UK road realignment project.
-*   Engineered a full EVM tracking engine using custom DAX parameters to monitor Planned Value (PV), Earned Value (EV), and Actual Cost (AC).
+*   Engineered a full EVM tracking engine using custom DAX parameters to monitor Planned Value (PV), Earned Value (EV) and Actual Cost (AC).
 *   Programmed predictive Estimate At Completion (EAC) forecasting to isolate variance issues before budget overruns occur.
 
 ### 📜 [NEC4 Contract Delay & Compensation Event Tracker](https://github.com/stephenjacobhussaini-sudo/nec4-contract-delay-tracker)
@@ -29,9 +29,8 @@ A commercial risk dashboard automating weather delay claims for a light rail tra
 
 ---
 
-## 💼 Professional Focus & Visa Status
-*   🇬🇧 **UK Right to Work:** Actively pursuing opportunities under the **New Entrant Skilled Worker visa pathway** (exempt from the Immigration Skills Charge with a lower minimum salary threshold of £33,400).
+## 💼 Professional Focus
 *   ⚙️ **Open to Roles:** Project Controls Analyst, Assistant Project Manager (Digital/Data), BIM Coordinator, Graduate Project Planner, Data Analyst.
-*   💬 **Let's Connect:** Open to professional collaborations, freelance analytics consultations, and open-source project control initiatives.
+*   💬 **Let's Connect:** Open to professional collaborations, freelance analytics consultations and open-source project control initiatives.
 
 📬 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-hussaini-248746371/) or drop an issue in my repositories!
