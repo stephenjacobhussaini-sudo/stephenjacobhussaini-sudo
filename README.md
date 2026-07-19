@@ -61,6 +61,6 @@ A commercial risk dashboard automating weather delay claims for a light rail tra
 
 I am actively looking for opportunities in **Project Management, Delivery Management, Data Analysis, and Project Controls**, including freelance, full-time and cross-functional volunteer initiatives.
 
-* 🌐 **LinkedIn**: [(https://www.linkedin.com/in/stephen-hussaini-248746371/)]
+* 🌐 **LinkedIn**: (https://www.linkedin.com/in/stephen-hussaini-248746371/)
 * 📧 **Email**: [(hussainistephen@outlook.com)]
 * 💼 **Portfolio Highlights**: Check out my individual repositories above for comprehensive data workbooks, technical reports and dynamic model files.
