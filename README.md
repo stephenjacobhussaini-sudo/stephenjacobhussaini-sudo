@@ -34,7 +34,7 @@ A high-fidelity digital twin built to evaluate complex socio-technical behaviors
 * **Methodologies**: Systems Engineering Lifecycle Design, Stochastic Variable Modeling (Triangular, Normal, Lognormal distributions), Bottleneck Mitigation.
 * **Outcomes**: Engineered a Hybrid Rear-to-Front Zoned boarding strategy that delivered a **10.3% turnaround optimization** over standard airline baselines, directly lowering localized ground emissions and operational costs.
 
-### 3. [Capital Infrastructure Risk Management & AI Controls](https://github.com/stephenjacobhussaini-sudo/infrastructure-business-case-ai-project-controls))
+### 3. [Capital Infrastructure Risk Management & AI Controls](https://github.com/stephenjacobhussaini-sudo/infrastructure-business-case-ai-project-controls)
 A dual-framework strategic paper delivering a structural critique of megaproject front-end delivery and proposing a next-generation predictive monitoring operating model.
 * **Methodologies**: HM Treasury Five-Case Model Assurance, Reference Class Forecasting, Earned Value Management (EVM) Augmentation.
 
