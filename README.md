@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Stephen Hussaini]
+# Hi 👋, I'm Stephen Hussaini
 
 <img src="images/profile-side.jpg" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
