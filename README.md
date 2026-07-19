@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm [Stephen Hussaini]
 
-<!--
-**stephenjacobhussaini-sudo/stephenjacobhussaini-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="images/profile-side.jpg" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
-Here are some ideas to get you started:
+I am a Project Controls & Construction Data Analyst with a strong foundation in structural assets and project delivery workflows. I hold a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in transforming complex, fragmented construction data—schedules, risk registers, and commercial claims—into real-time, executive-level interactive intelligence. By bridging the gap between heavy infrastructure frameworks and modern data analytics tools, I build data architectures that actively protect project margins, track critical paths, and prevent contract disputes.
+
+---
+
+## 🛠️ Technical Toolkit & Domain Expertise
+*   **Data Analytics & Visualization:** Power BI, DAX Formula Optimization, Power Query, Advanced Excel (VBA).
+*   **Project Controls Frameworks:** Earned Value Management (EVM), Scheduling (Primavera P6 / MS Project), Cost Forecasting (EAC), Risk Management.
+*   **Contract Administration:** NEC4 Frameworks, Clause 60.1(13) Weather Delay Tracking, Compensation Event (CE) Management.
+
+---
+
+## 🚀 Featured Infrastructure Analytics Projects
+
+### 📊 [Capital Infrastructure Performance Dashboard (EVM)](https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-)
+An enterprise-ready project controls dashboard built in Power BI to analyze a £12M UK road realignment project.
+*   Engineered a full EVM tracking engine using custom DAX parameters to monitor Planned Value (PV), Earned Value (EV), and Actual Cost (AC).
+*   Programmed predictive Estimate At Completion (EAC) forecasting to isolate variance issues before budget overruns occur.
+
+### 📜 [NEC4 Contract Delay & Compensation Event Tracker](https://github.com/stephenjacobhussaini-sudo/nec4-contract-delay-tracker)
+A commercial risk dashboard automating weather delay claims for a light rail transit asset scheme.
+*   Built dynamic comparative data models to isolate historical 1-in-10-year meteorological baselines against active site delays.
+*   Created automated visual compliance flags for critical path disruptions and pending variation financial exposures.
+
+---
+
+## 💼 Professional Focus & Visa Status
+*   🇬🇧 **UK Right to Work:** Actively pursuing opportunities under the **New Entrant Skilled Worker visa pathway** (exempt from the Immigration Skills Charge with a lower minimum salary threshold of £33,400).
+*   ⚙️ **Open to Roles:** Project Controls Analyst, Assistant Project Manager (Digital/Data), BIM Coordinator, Graduate Project Planner, Data Analyst.
+*   💬 **Let's Connect:** Open to professional collaborations, freelance analytics consultations, and open-source project control initiatives.
+
+📬 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-hussaini-248746371/) or drop an issue in my repositories!
