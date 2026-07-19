@@ -38,7 +38,7 @@ A high-fidelity digital twin built to evaluate complex socio-technical behaviors
 A dual-framework strategic paper delivering a structural critique of megaproject front-end delivery and proposing a next-generation predictive monitoring operating model.
 * **Methodologies**: HM Treasury Five-Case Model Assurance, Reference Class Forecasting, Earned Value Management (EVM) Augmentation.
 
-* **Outcomes**: Architected a four-layered AI-integrated control strategy mapping Computer Vision progress audits, Natural Language Processing (NLP) contract risk mining, and Machine Learning trend models directly into formal project board governance.
+* **Outcomes**: Architected a four-layered AI-integrated control strategy mapping Computer Vision progress audits, Natural Language Processing (NLP) contract risk mining and Machine Learning trend models directly into formal project board governance.
 
 ### 4. [Lifecycle Assessment & Sustainable Redesign Feasibility](https://github.com/stephenjacobhussaini-sudo/sustainable-product-design-lca-eco-audit)
 A streamlined Life Cycle Assessment (LCA) conducted to analyze, quantify, and mitigate the environmental impact and cost vectors of a consumer engineering asset at a commercial scale of 50,000 units.
@@ -59,7 +59,7 @@ A commercial risk dashboard automating weather delay claims for a light rail tra
 
 ## 🤝 Let's Connect!
 
-I am actively looking for opportunities in **Project Management, Delivery Management, Data Analysis, and Project Controls**, including freelance, full-time and cross-functional volunteer initiatives.
+I am actively looking for opportunities in **Project Management, Delivery Management, Data Analysis and Project Controls**, including freelance, full-time and cross-functional volunteer initiatives.
 
 * 🌐 **LinkedIn**: https://www.linkedin.com/in/stephen-hussaini-248746371/
 * 📧 **Email**: hussainistephen@outlook.com
