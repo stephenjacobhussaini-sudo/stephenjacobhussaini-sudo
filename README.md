@@ -4,7 +4,7 @@
 
 I am a Project Controls & Construction Data Analyst with a strong foundation in structural assets and project delivery workflows. I hold a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management. 
 
-I specialize in transforming complex, fragmented construction data—schedules, risk registers, and commercial claims—into real-time, executive-level interactive intelligence. By bridging the gap between heavy infrastructure frameworks and modern data analytics tools, I build data architectures that actively protect project margins, track critical paths and prevent contract disputes.
+I specialize in transforming complex, fragmented construction data schedules, risk registers, and commercial claims, into real-time, executive-level interactive intelligence. By bridging the gap between heavy infrastructure frameworks and modern data analytics tools, I build data architectures that actively protect project margins, track critical paths and prevent contract disputes.
 
 ---
 
