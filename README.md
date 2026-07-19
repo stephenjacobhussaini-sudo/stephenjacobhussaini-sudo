@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stephen Hussaini
 
-<img src="images/profile-side.jpg" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+<img src="(https://github.com/stephenjacobhussaini-sudo/stephenjacobhussaini-sudo/commit/985aa71823435bf80d074d73153da3bc0c0df079#diff-4ed6be588495a7d51098c1fefd4a4e796d89fd38f41b80cb77725f40647bc2d2)" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
 I am a Project Controls & Construction Data Analyst with a strong foundation in structural assets and project delivery workflows. I hold a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management. 
 
