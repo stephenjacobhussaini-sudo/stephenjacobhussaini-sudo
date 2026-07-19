@@ -40,7 +40,7 @@ A dual-framework strategic paper delivering a structural critique of megaproject
 
 * **Outcomes**: Architected a four-layered AI-integrated control strategy mapping Computer Vision progress audits, Natural Language Processing (NLP) contract risk mining, and Machine Learning trend models directly into formal project board governance.
 
-### 4. [Lifecycle Assessment & Sustainable Redesign Feasibility](https://github.com/YOUR-USERNAME/sustainable-product-design-lca-eco-audit)
+### 4. [Lifecycle Assessment & Sustainable Redesign Feasibility](https://github.com/stephenjacobhussaini-sudo/sustainable-product-design-lca-eco-audit)
 A streamlined Life Cycle Assessment (LCA) conducted to analyze, quantify, and mitigate the environmental impact and cost vectors of a consumer engineering asset at a commercial scale of 50,000 units.
 * **Methodologies**: Material Hotspot Diagnosis, Process Sizing, Design-for-Disassembly (DfD).
 * **Outcomes**: Engineered a natural-fiber material substitution that achieved a **~20% energy demand reduction** and a **~25% carbon impact reduction**, supplemented by a technical roadmap sizing an **18.1 kW solar PV array** to eliminate manufacturing Scope 2 emissions.
