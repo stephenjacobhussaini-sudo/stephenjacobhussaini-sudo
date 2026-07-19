@@ -4,7 +4,7 @@
 
 I bridge the gap between complex engineering methodologies, data science, and advanced project controls. Holding a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management, my expertise lies in transforming fragmented project metrics into predictive, actionable operational insight.
 
-Whether optimizing multi-million pound infrastructure schedules, building enterprise-grade reporting frameworks, or engineering lifecycle sustainability audits, I utilize data to eliminate project risk, reduce variability, and safeguard commercial margins.
+Whether optimizing multi-million pound infrastructure schedules, building enterprise-grade reporting frameworks, or engineering lifecycle sustainability audits, I utilize data to eliminate project risk, reduce variability and safeguard commercial margins.
 
 
 ---
