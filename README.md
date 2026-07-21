@@ -1,4 +1,4 @@
-# Hi, I'm a Technical Project Manager & Project Controls Specialist 👋
+# Hi, I'm a Technical Project Manager & Project Controls Specialist
 
 <img src="https://github.com/user-attachments/assets/a93778cf-262d-4987-a923-5f06d6d8e472/" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
@@ -9,7 +9,7 @@ Whether optimizing multi-million pound infrastructure schedules, building enterp
 
 ---
 
-## 🛠️ Technical Competency & Tooling Matrix
+## Technical Competency & Tooling Matrix
 
 | Project Controls & Management | Analytics & Visualization | Systems & Infrastructure |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ Whether optimizing multi-million pound infrastructure schedules, building enterp
 
 ---
 
-## 📊 Featured Portfolio Repositories
+## Featured Portfolio Repositories
 
 ### 1. [Rail Service Process Optimization | Lean Six Sigma DMADV](https://github.com/stephenjacobhussaini-sudo/rail-service-improvement-six-sigma-dmadv)
 An enterprise-grade data analytics project applying the full DMADV framework to optimize operational reliability on a busy inter-city rail corridor using a real-world dataset of 2,761 scheduled services.
@@ -45,22 +45,22 @@ A streamlined Life Cycle Assessment (LCA) conducted to analyze, quantify, and mi
 * **Methodologies**: Material Hotspot Diagnosis, Process Sizing, Design-for-Disassembly (DfD).
 * **Outcomes**: Engineered a natural-fiber material substitution that achieved a **~20% energy demand reduction** and a **~25% carbon impact reduction**, supplemented by a technical roadmap sizing an **18.1 kW solar PV array** to eliminate manufacturing Scope 2 emissions.
 
-### 5. 📊 [Capital Infrastructure Performance Dashboard (EVM)](https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-)
+### 5. [Capital Infrastructure Performance Dashboard (EVM)](https://github.com/stephenjacobhussaini-sudo/Manchester-Road-Realignment-Project-Controls-)
 An enterprise-ready project controls dashboard built in Power BI to analyze a £12M UK road realignment project.
 *   Engineered a full EVM tracking engine using custom DAX parameters to monitor Planned Value (PV), Earned Value (EV) and Actual Cost (AC).
 *   Programmed predictive Estimate At Completion (EAC) forecasting to isolate variance issues before budget overruns occur.
 
-### 6.📜 [NEC4 Contract Delay & Compensation Event Tracker](https://github.com/stephenjacobhussaini-sudo/nec4-contract-delay-tracker)
+### 6. [NEC4 Contract Delay & Compensation Event Tracker](https://github.com/stephenjacobhussaini-sudo/nec4-contract-delay-tracker)
 A commercial risk dashboard automating weather delay claims for a light rail transit asset scheme.
 *   Built dynamic comparative data models to isolate historical 1-in-10-year meteorological baselines against active site delays.
 *   Created automated visual compliance flags for critical path disruptions and pending variation financial exposures.
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I am actively looking for opportunities in **Project Management, Delivery Management, Data Analysis and Project Controls**, including freelance, full-time and cross-functional volunteer initiatives.
 
-* 🌐 **LinkedIn**: https://www.linkedin.com/in/stephen-hussaini-248746371/
-* 📧 **Email**: hussainistephen@outlook.com
-* 💼 **Portfolio Highlights**: Check out my individual repositories above for comprehensive data workbooks, technical reports and dynamic model files.
+*  **LinkedIn**: https://www.linkedin.com/in/stephen-hussaini-248746371/
+*  **Email**: hussainistephen@outlook.com
+*  **Portfolio Highlights**: Check out my individual repositories above for comprehensive data workbooks, technical reports and dynamic model files.
