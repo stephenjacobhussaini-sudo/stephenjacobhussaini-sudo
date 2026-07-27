@@ -1,6 +1,6 @@
 # Hi, I'm a Technical Project Manager & Project Controls Specialist
 
-<img src="https://github.com/user-attachments/assets/a93778cf-262d-4987-a923-5f06d6d8e472/" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+<img src="[https://github.com/user-attachments/assets/a93778cf-262d-4987-a923-5f06d6d8e472/](https://github.com/stephenjacobhussaini-sudo/stephenjacobhussaini-sudo/blob/main/images/lecture%20picture.jpeg?raw=true)" align="right" alt="Professional Portrait" width="320" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
 I bridge the gap between complex engineering methodologies, data science, and advanced project controls. Holding a Bachelor's degree in Civil Engineering and a Master's degree in Engineering Project Management, my expertise lies in transforming fragmented project metrics into predictive, actionable operational insight.
 
