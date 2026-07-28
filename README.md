@@ -5,6 +5,7 @@
 Civil Engineer and Project Management postgraduate specializing in data-driven project controls. Experienced in taking fragmented, complex project data and turning it into clear, practical insights for leadership teams. Over the past two years in the UK infrastructure space, I've focused on building robust reporting frameworks, auditing schedules and managing lifecycle risk to keep commercial margins safe and delivery on track.
 
 
+
 ---
 
 ## Technical Competency & Tooling Matrix
